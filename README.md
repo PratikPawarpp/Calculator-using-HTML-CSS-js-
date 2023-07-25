@@ -59,3 +59,16 @@ color:green;width:300px;height:300px;border 4px solid blue;border-radius:3px"><t
 
 </tr>
 </tr>
+<td>
+
+<input type="button" values" onclick" display value+"/""></td> <td> <input type="button" value="" onclick="display value +=""></td>
+
+<td>
+
+<input type="button" value="C" onclick"display values"></td> <td>
+
+<input type="button" value="" onclick="display.value"></ <td> <input type="button" value="X" onclick="display.value-display.value.toString().slice(0,-)"></td> <td> <input type="button" value="" onclick="display.value seal display.value></td> </form> </body>
+
+</tr>
+
+</html>
