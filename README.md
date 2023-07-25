@@ -17,7 +17,6 @@ font-size:20px;
 <form>
 
 <table align="center" style="margin-top: 100px;background
-
 color:green;width:300px;height:300px;border 4px solid blue;border-radius:3px"><tr><td colspan=""> <input type="text" name="display" style="width:300px;height:40px">
 
 </td></tr> <tr><td>
@@ -27,9 +26,9 @@ color:green;width:300px;height:300px;border 4px solid blue;border-radius:3px"><t
 <td>
 
 <input type="button" value="2" onclick="display.value="2"></td> <td>
-
+<td>
 <input type="button" value="3" onclick"display value></td> <td>
-
+<td>
 <input type="button" value="4" onclick"display value+a></td>
 
 <td>
@@ -50,7 +49,7 @@ color:green;width:300px;height:300px;border 4px solid blue;border-radius:3px"><t
 
 <td> <input type="button" value="8" onclick="display value +=""></td> <td>
 
-<input type="button" value="9" onclick"display.value=''></td>
+<td><input type="button" value="9" onclick"display.value=''></td>
 
 <td> <input type="button" value="0" onclick="display.value=='0'></td>
 <td>
