@@ -25,9 +25,9 @@ color:green;width:300px;height:300px;border 4px solid blue;border-radius:3px"><t
 
 <td>
 
-<input type="button" value="2" onclick="display.value="2"></td> <td>
-<td>
-<input type="button" value="3" onclick"display value></td> <td>
+<input type="button" value="2" onclick="display.value="2"></td>
+ <td>
+<input type="button" value="3" onclick"display value></td> 
 <td>
 <input type="button" value="4" onclick"display value+a></td>
 
@@ -35,7 +35,7 @@ color:green;width:300px;height:300px;border 4px solid blue;border-radius:3px"><t
 
 <input type="button" value="5" onclick="display.value=""></td>
 
-<<td>
+<td>
 
 <input type="button" value="" onclick="display value=""></td> <tr>
 
